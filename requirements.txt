@@ -1,0 +1,4 @@
+discord.py[voice]>=2.7.1
+# davey 0.2.x funktioniert noch nicht mit discord.py 2.7.1 (Bot ist stumm) -> 0.1.x verwenden
+davey>=0.1.7,<0.2
+python-dotenv>=1.0

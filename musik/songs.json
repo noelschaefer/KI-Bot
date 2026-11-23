@@ -1,0 +1,26 @@
+[
+  {
+    "datei": "beispiel-chill.mp3",
+    "titel": "Sunset Lounge",
+    "kuenstler": "Beispielkünstler",
+    "tags": ["entspannt", "lernen", "lofi", "abends"]
+  },
+  {
+    "datei": "beispiel-party.mp3",
+    "titel": "Neon Nights",
+    "kuenstler": "Beispielkünstler",
+    "tags": ["party", "energie", "elektronisch", "tanzen"]
+  },
+  {
+    "datei": "beispiel-gaming.mp3",
+    "titel": "Boss Fight",
+    "kuenstler": "Beispielkünstler",
+    "tags": ["gaming", "episch", "spannend", "orchestral"]
+  },
+  {
+  "datei": "the_mountain-chill-piano-637122.mp3",
+  "titel": "Piano1",
+  "kuenstler": "Unknown",
+  "tags": ["entspannt", "chill", "piano"]
+  }
+]

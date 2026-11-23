@@ -1,0 +1,9 @@
+@echo off
+REM Startet den Bot per Doppelklick.
+cd /d "%~dp0"
+if exist .venv\Scripts\python.exe (
+    .venv\Scripts\python.exe bot.py
+) else (
+    py bot.py
+)
+pause
